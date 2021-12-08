@@ -24,7 +24,7 @@ as próximas telas irão aparecer de forma automática ao decorrer do programa.
 
 OBS: A Classe Principal.java se encontra dentro da pasta "src" e que por sua vez esta dentro do pacote "telas".
 
-** Para simplesmente jogar e testar o jogo
+** Para simplesmente jogar e testar o jogo:
 
 Baixar JogoXadrez.jar que se encontra na pasta "dist".
 
