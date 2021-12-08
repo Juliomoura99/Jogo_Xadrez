@@ -11,20 +11,21 @@ Algumas informações sobre o projeto:
 -> Professores: Daniele Rodrigues /
                 Leandro Xastre
 
--> Data de entrega: 07/12/2021
 
 -> Alunos: Júlio César Moura (RA: 20126231) e
            Rafael Nascimento (RA: 20015558)
 
 ** Para executar o programa:
 
-Todas as classes estão na pasta "src" em .java ; 
+Todos os arquivos estão na pasta "src" basta baixar eles dessa mesma pasta; 
 
 Basta colocar a classe Principal.java como a própria principal e executar a partir dela com isso 
 as próximas telas irão aparecer de forma automática ao decorrer do programa.
 
-OBS: A Classe Principal.java se encontra dentro da pasta "src" e que por sua vez esta dentro do package "telas".
+OBS: A Classe Principal.java se encontra dentro da pasta "src" e que por sua vez esta dentro do pacote "telas".
 
 ** Para simplesmente jogar e testar o jogo
 
 Baixar JogoXadrez.jar que se encontra na pasta "dist".
+
+Divirta-se.
