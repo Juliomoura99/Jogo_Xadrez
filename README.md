@@ -22,3 +22,5 @@ Todas as classes estão na pasta "src" em .java ;
 
 Basta colocar a classe Principal.java como a própria principal e executar a partir dela com isso 
 as próximas telas irão aparecer de forma automática ao decorrer do programa.
+
+OBS: A Classe Principal.java se encontra dentro da pasta "src" e que por sua vez esta dentro do package "telas".
