@@ -18,5 +18,7 @@ Algumas informações sobre o projeto:
 
 ** Para executar o programa:
 
-Colocar a classe Principal.java como a própria principal e executar a partir dela com isso 
+Todas as classes estão na pasta "src" em .java ; 
+
+Basta colocar a classe Principal.java como a própria principal e executar a partir dela com isso 
 as próximas telas irão aparecer de forma automática ao decorrer do programa.
