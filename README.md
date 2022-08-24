@@ -12,8 +12,7 @@ Algumas informações sobre o projeto:
                 Leandro Xastre
 
 
--> Alunos: Júlio César Moura (RA: 20126231) e
-           Rafael Nascimento (RA: 20015558)
+-> Aluno: Júlio César Moura (RA: 20126231)
 
 ** Para executar o programa:
 
